@@ -3,7 +3,7 @@
 -- ? Enter psql terminal
 -- ! docker exec -it sql_cc psql -U postgres
 -- ? Create a database
--- ! CREATE DATABASE chaicode_ecom_db;
+-- ! CREATE DATABASE Pranay_ecom_db;
 
 -- ! DDL (Data Definition language)
 CREATE TABLE departments (
